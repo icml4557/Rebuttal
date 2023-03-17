@@ -1,6 +1,7 @@
 # Rebuttal
 Response to the Reviewers questions
-## Eigenvalues_comparisons.png
+
+## Explanation for figure Eigenvalues_comparisons.png
 
 The small eignevalue of $10^{-8}$ under GD decays very slowely (dashed gree line), while under overdampes solution (blue line) the convergence is fast. The large eigebnvalue of $10^{+3}$ under GD decays immediatley (dashed red line), while udner underdamped solution (orange line) it oscilates until it converges, as a result both eigenvalues $10^{-8}$ and $10^{+3}$ under momentum are learnt at the same time. 
 
